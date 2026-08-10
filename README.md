@@ -70,6 +70,11 @@ auto-cadastro, relatórios.
 [protheus-report-lab](https://github.com/limaduzz11/protheus-report-lab) ·
 [protheus-mvc-lab](https://github.com/limaduzz11/protheus-mvc-lab) ·
 [protheus-integration-lab](https://github.com/limaduzz11/protheus-integration-lab) ·
+[protheus-email-lab](https://github.com/limaduzz11/protheus-email-lab) ·
+[protheus-schedule-lab](https://github.com/limaduzz11/protheus-schedule-lab) ·
+[protheus-file-lab](https://github.com/limaduzz11/protheus-file-lab) ·
+[protheus-class-lab](https://github.com/limaduzz11/protheus-class-lab) ·
+[protheus-nfe-lab](https://github.com/limaduzz11/protheus-nfe-lab) ·
 [advpl-utils](https://github.com/limaduzz11/advpl-utils)
 
 ---
