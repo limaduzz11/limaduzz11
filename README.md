@@ -93,4 +93,4 @@ auto-cadastro, relatórios.
 ### Contato
 
 - **LinkedIn**: [linkedin.com/in/eduardo-de-lima-paranhos-910930263](https://www.linkedin.com/in/eduardo-de-lima-paranhos-910930263/)
-- **ELP Tecnologia**: [elp-site](https://github.com/limaduzz11/elp-site)
+- **ELP Tecnologia**: [elptecnologia.com.br](https://elptecnologia.com.br/)
