@@ -51,9 +51,20 @@ Servidor MCP que fornece acesso estruturado à documentação técnica
 TOTVS Protheus para agentes de IA e ferramentas de desenvolvimento.
 `TypeScript` `Node.js` `MCP SDK`
 
-#### Em breve
+#### [protheus-rest-lab](https://github.com/limaduzz11/protheus-rest-lab)
+Exemplos práticos de consumo e exposição de APIs REST no ecossistema
+TOTVS Protheus usando ADVPL.
+`ADVPL` `REST APIs` `JSON`
 
-`protheus-rest-lab` `protheus-po-ui-template` `nova-nexus`
+#### [protheus-po-ui-template](https://github.com/limaduzz11/protheus-po-ui-template)
+Template de referência para interfaces Angular + PO-UI integradas
+com backends ADVPL do TOTVS Protheus.
+`Angular` `PO-UI` `ADVPL`
+
+#### [protheus-advpl-lab](https://github.com/limaduzz11/protheus-advpl-lab)
+Padrões ADVPL reutilizáveis — centro de custo, filtros SX5,
+auto-cadastro, relatórios.
+`ADVPL` `TOTVS Protheus` `TReport`
 
 ---
 
