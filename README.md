@@ -66,6 +66,12 @@ Padrões ADVPL reutilizáveis — centro de custo, filtros SX5,
 auto-cadastro, relatórios.
 `ADVPL` `TOTVS Protheus` `TReport`
 
+#### Mais projetos
+[protheus-report-lab](https://github.com/limaduzz11/protheus-report-lab) ·
+[protheus-mvc-lab](https://github.com/limaduzz11/protheus-mvc-lab) ·
+[protheus-integration-lab](https://github.com/limaduzz11/protheus-integration-lab) ·
+[advpl-utils](https://github.com/limaduzz11/advpl-utils)
+
 ---
 
 ### Áreas de Interesse
