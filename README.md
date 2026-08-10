@@ -51,15 +51,9 @@ Servidor MCP que fornece acesso estruturado à documentação técnica
 TOTVS Protheus para agentes de IA e ferramentas de desenvolvimento.
 `TypeScript` `Node.js` `MCP SDK`
 
-#### [elp-site](https://github.com/limaduzz11/elp-site)
-Site profissional e portfolio, construído com Astro e TypeScript,
-com deploy serverless na Cloudflare.
-`Astro` `TypeScript` `Cloudflare`
+#### Em breve
 
-#### [protheus-po-ui-template](https://github.com/limaduzz11/protheus-po-ui-template)
-Template de referência para interfaces Angular + PO-UI integradas
-com backends ADVPL do TOTVS Protheus.
-`Angular` `PO-UI` `ADVPL`
+`protheus-rest-lab` `protheus-po-ui-template` `nova-nexus`
 
 ---
 
