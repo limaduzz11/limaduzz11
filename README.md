@@ -9,12 +9,33 @@ Paralelamente, projeto e mantenho aplicações open source na **VANTA Labz** (co
 
 ---
 
-### Core Stack
+### Core Stack & Technologies
 
-* **ERP & Enterprise:** ADVPL, TL++, TOTVS Protheus 12 (MVC, ExecAuto, WebServices, PO-UI)
-* **Backend & Dados:** RESTful APIs, JSON, SOAP, Microsoft SQL Server, SQLite (WAL)
-* **Linguagens & Web:** TypeScript, Dart, Python, Bash
-* **DevOps & Ferramentas:** Git, Linux (Ubuntu / Pop!_OS), Model Context Protocol (MCP SDK), Docker, Postman
+* **ERP & Enterprise:**  
+  ![TOTVS Protheus](https://img.shields.io/badge/TOTVS_Protheus_12-ED1C24?style=flat)
+  ![ADVPL](https://img.shields.io/badge/ADVPL%2FTL%2B%2B-005696?style=flat)
+  ![PO-UI](https://img.shields.io/badge/PO--UI-0070B8?style=flat&logo=angular&logoColor=white)
+  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+
+* **Backend & Databases:**  
+  ![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=flat&logo=microsoftsqlserver&logoColor=white)
+  ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat&logo=postman&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/SQLite_WAL-003B57?style=flat&logo=sqlite&logoColor=white)
+  ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
+
+* **Languages & Multiplatform:**  
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+
+* **DevOps, AI & Tooling:**  
+  ![Model Context Protocol](https://img.shields.io/badge/MCP-Model_Context_Protocol-8A2BE2?style=flat)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
 
