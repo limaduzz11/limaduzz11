@@ -1,7 +1,7 @@
 # Eduardo de Lima Paranhos
 
 **Software Developer**  
-Enterprise Systems • Backend & Integrations • Systems Architecture • AI-Assisted Engineering
+Enterprise Systems • Backend & Integrations • Systems Architecture • Harness AI-Assisted Engineering
 
 Atuo com desenvolvimento de software voltado ao ecossistema corporativo TOTVS Protheus 12, com foco em desenvolvimento ADVPL/TL++, arquitetura de integrações via APIs REST/SOAP, automação de processos de negócio e modelagem de consultas em Microsoft SQL Server.
 
