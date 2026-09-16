@@ -39,39 +39,36 @@ Paralelamente, projeto e mantenho aplicações open source na **VANTA Labz** (co
 
 ---
 
-### Projetos em Destaque
-
-#### [protheus-research](https://github.com/limaduzz11/protheus-research)
-Servidor MCP (Model Context Protocol) para pesquisa técnica e diagnóstico no ecossistema TOTVS Protheus. Fornece ferramentas estruturadas para agentes de IA consultarem documentações, referências de linguagem e análise de stack traces.  
-`TypeScript` `Node.js` `MCP SDK` `TOTVS Protheus`
-
-#### [protheus-rest-lab](https://github.com/limaduzz11/protheus-rest-lab)
-Padrões arquiteturais práticos para consumo e exposição de APIs REST no TOTVS Protheus utilizando ADVPL (`FWRest`, `HTTPClient`, tratamento de exceções e serialização JSON).  
-`ADVPL` `REST APIs` `JSON` `TOTVS Protheus`
-
-#### [protheus-po-ui-template](https://github.com/limaduzz11/protheus-po-ui-template)
-Template de referência para modernização de interfaces corporativas combinando Angular + PO-UI com backends ADVPL integrados ao ERP.  
-`PO-UI` `Angular` `TypeScript` `ADVPL`
-
-#### [nova-hub](https://github.com/limaduzz11/nova-hub)
-Dashboard multiplataforma para telemetria de sistemas e gerenciamento remoto de dispositivos via conexões SSH seguras.  
-`Flutter` `Dart` `SSH` `Material 3`
+### Projetos & Engenharia de Software
 
 #### [VANTA Reader](https://github.com/limaduzz11) *(Open Source — VANTA Labz)*
 Plataforma local-first de leitura digital para livros (EPUB, PDF, TXT) e quadrinhos/mangás (CBZ, CBR).  
-- Arquitetura: Clean Architecture desacoplada, SQLite WAL (schema v5) e gerenciamento reativo de estado.
-- Engenharia: Mais de 200 testes automatizados, modo imersivo e streaming adaptativo.  
-`Flutter` `Dart` `SQLite` `Clean Architecture`
+- **Arquitetura & Engenharia:** Clean Architecture desacoplada, SQLite WAL (schema v5), gerenciamento reativo de estado e streaming adaptativo.
+- **Qualidade & Testes:** Mais de 200 testes automatizados, pipeline completo de validação e foco em experiência offline-first.  
+`Flutter` `Dart` `SQLite` `Clean Architecture` `Open Source`
+
+#### [protheus-research](https://github.com/limaduzz11/protheus-research)
+Servidor MCP (Model Context Protocol) para exploração técnica e apoio ao diagnóstico no ecossistema TOTVS Protheus. Fornece ferramentas para agentes de IA consultarem documentações públicas, sintaxes de linguagem e heurísticas de stack trace.  
+`TypeScript` `Node.js` `MCP SDK` `TOTVS Protheus`
+
+#### [nova-hub](https://github.com/limaduzz11/nova-hub)
+Conceito de dashboard multiplataforma para telemetria de sistemas locais e gerenciamento de dispositivos via conexões SSH.  
+`Flutter` `Dart` `Material 3` `SSH`
 
 ---
 
-### Repositórios de Padrões & Laboratórios Educacionais
+### Laboratórios Conceituais & Padrões Arquiteturais (Educacional)
 
-* [`protheus-advpl-lab`](https://github.com/limaduzz11/protheus-advpl-lab): Padrões avançados ADVPL (ExecAuto MATA410 de Pedidos de Venda, transações ACID com TCQuery/TCSQLExec, auto-cadastro e relatórios).
-* [`protheus-mvc-lab`](https://github.com/limaduzz11/protheus-mvc-lab): Padrões canônicos MVC Protheus com FWMBrowse, ModelDef (MPFormModel), ViewDef (FWFormView) e pontos de entrada de modelo.
-* [`protheus-integration-lab`](https://github.com/limaduzz11/protheus-integration-lab): Padrões de integração via FWRest, webhooks transacionados e conciliação de pagamentos com gateways.
-* [`advpl-utils`](https://github.com/limaduzz11/advpl-utils): Utilitários para formatação de strings, cálculos de datas com clamp, dias úteis com calendário fiscal Protheus e exportação TCQuery para CSV.
-* [`protheus-schedule-lab`](https://github.com/limaduzz11/protheus-schedule-lab): Padrões de processamento assíncrono via Schedule TOTVS com SchedDef() e execução autônoma via RpcSetEnv.
+> [!NOTE]
+> Os repositórios abaixo são **laboratórios conceituais e guias de estudo de arquitetura**. Não se destinam a compilação autônoma nem contêm código proprietário de clientes, focando em demonstrar padrões canônicos da TOTVS (TDN), boas práticas e contratos de integração.
+
+* [`protheus-advpl-lab`](https://github.com/limaduzz11/protheus-advpl-lab): Padrões avançados ADVPL (rotinas de `MSExecAuto MATA410` de Pedidos de Venda, transações ACID com `TCQuery`/`TCSQLExec`, auto-cadastro e relatórios).
+* [`protheus-rest-lab`](https://github.com/limaduzz11/protheus-rest-lab): Padrões de consumo e exposição de APIs REST no ERP Protheus (`WSRESTFUL` nativo com `restful.ch`, cliente `FWRest`, `TCQuery` e serialização `JsonObject`).
+* [`protheus-mvc-lab`](https://github.com/limaduzz11/protheus-mvc-lab): Padrões canônicos MVC Protheus com `FWMBrowse`, `ModelDef` (`MPFormModel`), `ViewDef` (`FWFormView`) e pontos de entrada de modelo.
+* [`protheus-integration-lab`](https://github.com/limaduzz11/protheus-integration-lab): Padrões de integração via `FWRest`, webhooks transacionados e conciliação de pagamentos com gateways externos.
+* [`protheus-po-ui-template`](https://github.com/limaduzz11/protheus-po-ui-template): Template de referência de integração entre frontend Angular + PO-UI e backend REST ADVPL.
+* [`advpl-utils`](https://github.com/limaduzz11/advpl-utils): Utilitários para formatação de strings, cálculos de datas com clamp, dias úteis com calendário fiscal Protheus e exportação `TCQuery` para CSV.
+* [`protheus-schedule-lab`](https://github.com/limaduzz11/protheus-schedule-lab): Padrões de processamento assíncrono via Schedule TOTVS com `SchedDef()` e execução autônoma via `RpcSetEnv`.
 
 ---
 
