@@ -67,11 +67,11 @@ Plataforma local-first de leitura digital para livros (EPUB, PDF, TXT) e quadrin
 
 ### Repositórios de Padrões & Laboratórios Educacionais
 
-* [`protheus-advpl-lab`](https://github.com/limaduzz11/protheus-advpl-lab): Padrões ADVPL reutilizáveis (centros de custo, filtros SX5, auto-cadastro e TReport).
-* [`protheus-mvc-lab`](https://github.com/limaduzz11/protheus-mvc-lab): Padrões MVC no Protheus com FwBrowse, MarkBrowse e pontos de entrada de modelo.
-* [`protheus-integration-lab`](https://github.com/limaduzz11/protheus-integration-lab): Padrões de conciliação de pagamentos com gateways externos e receptores de webhooks.
-* [`advpl-utils`](https://github.com/limaduzz11/advpl-utils): Utilitários para manipulação de strings, datas, parsing CSV e validações no Protheus.
-* [`protheus-schedule-lab`](https://github.com/limaduzz11/protheus-schedule-lab): Padrões de processamento assíncrono e jobs em background via Schedule TOTVS.
+* [`protheus-advpl-lab`](https://github.com/limaduzz11/protheus-advpl-lab): Padrões avançados ADVPL (ExecAuto MATA410 de Pedidos de Venda, transações ACID com TCQuery/TCSQLExec, auto-cadastro e relatórios).
+* [`protheus-mvc-lab`](https://github.com/limaduzz11/protheus-mvc-lab): Padrões canônicos MVC Protheus com FWMBrowse, ModelDef (MPFormModel), ViewDef (FWFormView) e pontos de entrada de modelo.
+* [`protheus-integration-lab`](https://github.com/limaduzz11/protheus-integration-lab): Padrões de integração via FWRest, webhooks transacionados e conciliação de pagamentos com gateways.
+* [`advpl-utils`](https://github.com/limaduzz11/advpl-utils): Utilitários para formatação de strings, cálculos de datas com clamp, dias úteis com calendário fiscal Protheus e exportação TCQuery para CSV.
+* [`protheus-schedule-lab`](https://github.com/limaduzz11/protheus-schedule-lab): Padrões de processamento assíncrono via Schedule TOTVS com SchedDef() e execução autônoma via RpcSetEnv.
 
 ---
 
