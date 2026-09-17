@@ -18,6 +18,7 @@ Paralelamente, projeto e mantenho aplicações open source na **VANTA Labz** (co
   ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 
 * **Backend & Databases:**  
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
   ![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=flat&logo=microsoftsqlserver&logoColor=white)
   ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat&logo=postman&logoColor=white)
   ![SQLite](https://img.shields.io/badge/SQLite_WAL-003B57?style=flat&logo=sqlite&logoColor=white)
@@ -25,6 +26,7 @@ Paralelamente, projeto e mantenho aplicações open source na **VANTA Labz** (co
 
 * **Languages & Multiplatform:**  
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
   ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -41,7 +43,7 @@ Paralelamente, projeto e mantenho aplicações open source na **VANTA Labz** (co
 
 ### Projetos & Engenharia de Software
 
-#### [VANTA Reader](https://github.com/limaduzz11) *(Open Source — VANTA Labz)*
+#### [VANTA Reader](https://github.com/limaduzz11/vanta-reader) *(Open Source — VANTA Labz)*
 Plataforma local-first de leitura digital para livros (EPUB, PDF, TXT) e quadrinhos/mangás (CBZ, CBR).  
 - **Arquitetura & Engenharia:** Clean Architecture desacoplada, SQLite WAL (schema v5), gerenciamento reativo de estado e streaming adaptativo.
 - **Qualidade & Testes:** Mais de 200 testes automatizados, pipeline completo de validação e foco em experiência offline-first.  
@@ -52,8 +54,12 @@ Servidor MCP (Model Context Protocol) para exploração técnica e apoio ao diag
 `TypeScript` `Node.js` `MCP SDK` `TOTVS Protheus`
 
 #### [nova-hub](https://github.com/limaduzz11/nova-hub)
-Conceito de dashboard multiplataforma para telemetria de sistemas locais e gerenciamento de dispositivos via conexões SSH.  
-`Flutter` `Dart` `Material 3` `SSH`
+Dashboard web operacional para telemetria em tempo real de infraestrutura local, gerenciamento de dispositivos via terminal SSH embutido (PTY), orquestração Kanban e rede privada Tailscale.  
+`Node.js` `Express 5` `Vanilla JS` `SSH PTY` `Tailscale VPN` `WebSockets`
+
+#### [nova-abme](https://github.com/limaduzz11/nova-abme) — [*Live*](https://nova-abme.pages.dev/)
+Gateway estático de engenharia e portfólio profissional de alta performance, arquitetado com foco em resiliência, acessibilidade WCAG AAA e deploy na Cloudflare Pages.  
+`Astro` `TypeScript` `Tailwind CSS` `Playwright` `Cloudflare Pages`
 
 ---
 
