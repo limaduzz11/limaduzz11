@@ -44,9 +44,9 @@ Paralelamente, projeto e mantenho aplicações open source na **VANTA Labz** (co
 ### Projetos & Engenharia de Software
 
 #### [VANTA Reader](https://github.com/limaduzz11/vanta-reader) *(Open Source — VANTA Labz)*
-Plataforma local-first de leitura digital para livros (EPUB, PDF, TXT) e quadrinhos/mangás (CBZ, CBR).  
-- **Arquitetura & Engenharia:** Clean Architecture desacoplada, SQLite WAL (schema v5), gerenciamento reativo de estado e streaming adaptativo.
-- **Qualidade & Testes:** Mais de 200 testes automatizados, pipeline completo de validação e foco em experiência offline-first.  
+Plataforma local-first de leitura digital para livros (EPUB, TXT) e quadrinhos/mangás (CBZ). PDF e CBR planejados no roadmap.  
+- **Arquitetura & Engenharia:** Clean Architecture desacoplada, SQLite WAL (schema v5), gerenciamento reativo de estado e cache LRU anti-OOM.
+- **Qualidade & Testes:** Suíte de testes automatizados com CI contínuo no GitHub Actions e foco em experiência offline-first.  
 `Flutter` `Dart` `SQLite` `Clean Architecture` `Open Source`
 
 #### [protheus-research](https://github.com/limaduzz11/protheus-research)
